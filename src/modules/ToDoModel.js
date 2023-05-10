@@ -22,6 +22,7 @@ class TodoList {
 
   displayList() {
     render(this);
+    document.getElementById('add-task').focus();
   }
 }
 

@@ -75,6 +75,7 @@ textarea {
   background-color: var(--light-grey);
   width: 100%;
   overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .tasks li {
@@ -245,6 +246,7 @@ textarea {
   height: auto;
   border: none;
   padding: 1rem;
+  overflow: hidden;
 }
 
 .clear-btn-container.ripple::after {
@@ -255,6 +257,7 @@ textarea {
   background-color: rgba(255, 255, 255, 0.6);
   clip-path: polygon(10% 0, 70% 0, 90% 100%, 30% 100%);
   animation: right-left 400ms linear;
+  overflow: hidden;
 }
 
 @keyframes right-left {

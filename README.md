@@ -6,6 +6,7 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 To Do List](#-to-do-list)
+- [TEST DUPLICATE](#test-duplicate)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -25,6 +26,8 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 <a name="about-project">To Do List</a>
+
+# TEST DUPLICATE
 
 Simple To Do List single-page application (SPA) that allows user to add and/or remove tasks to/from the list. Only one class with defined methods used. All data stored in local storage. Project is based on modular JS and ES6 syntax & features.
 
